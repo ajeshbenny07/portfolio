@@ -1,4 +1,3 @@
-# ajeshbenny.github.io
 # Ajesh Benny
 
 **Engineering Management Professional \| Project Planning & Coordination
