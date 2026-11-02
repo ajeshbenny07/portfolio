@@ -184,7 +184,7 @@ manufacturing operations, and continuous improvement.
 -   **Email:** <ajeshbenny07@gmail.com>
 -   **Location:** Kerala, India
 -   **Portfolio:** [ajeshbenny.github.io](https://ajeshbenny.github.io)
--   **LinkedIn:** Add your LinkedIn profile URL here
+-   **LinkedIn:** https://www.linkedin.com/in/ajesh-benny-552445112/
 
 ------------------------------------------------------------------------
 
